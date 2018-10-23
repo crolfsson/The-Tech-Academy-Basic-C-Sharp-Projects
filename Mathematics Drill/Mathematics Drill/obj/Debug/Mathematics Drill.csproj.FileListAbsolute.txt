@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\bin\Debug\Mathematics Drill.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\bin\Debug\Mathematics Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\bin\Debug\Mathematics Drill.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\obj\Debug\Mathematics Drill.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\obj\Debug\Mathematics Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\obj\Debug\Mathematics Drill.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics Drill\Mathematics Drill\obj\Debug\Mathematics Drill.csprojAssemblyReference.cache
