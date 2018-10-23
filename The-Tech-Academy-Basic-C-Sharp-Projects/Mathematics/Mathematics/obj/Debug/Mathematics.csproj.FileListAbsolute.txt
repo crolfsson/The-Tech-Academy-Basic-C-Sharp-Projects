@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\bin\Debug\Mathematics.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\bin\Debug\Mathematics.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\bin\Debug\Mathematics.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\obj\Debug\Mathematics.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\obj\Debug\Mathematics.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Mathematics\Mathematics\obj\Debug\Mathematics.pdb

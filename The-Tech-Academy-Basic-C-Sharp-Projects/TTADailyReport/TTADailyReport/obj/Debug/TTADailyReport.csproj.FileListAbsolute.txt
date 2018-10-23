@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\bin\Debug\TTADailyReport.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\bin\Debug\TTADailyReport.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\bin\Debug\TTADailyReport.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-Basic-C-Sharp-Projects\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.pdb
