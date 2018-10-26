@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\bin\Debug\Income Comparison Drill.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\bin\Debug\Income Comparison Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\bin\Debug\Income Comparison Drill.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\obj\Debug\Income Comparison Drill.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\obj\Debug\Income Comparison Drill.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\obj\Debug\Income Comparison Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\Income Comparison Drill\obj\Debug\Income Comparison Drill.pdb
