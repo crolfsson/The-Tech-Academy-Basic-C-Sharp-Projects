@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.pdb
