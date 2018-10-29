@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\bin\Debug\Boolean While Drill.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\bin\Debug\Boolean While Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\bin\Debug\Boolean While Drill.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\obj\Debug\Boolean While Drill.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\obj\Debug\Boolean While Drill.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\obj\Debug\Boolean While Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean While Drill\Boolean While Drill\obj\Debug\Boolean While Drill.pdb
