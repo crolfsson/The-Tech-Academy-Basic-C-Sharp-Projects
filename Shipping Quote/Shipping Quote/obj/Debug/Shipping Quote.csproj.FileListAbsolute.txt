@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.pdb
