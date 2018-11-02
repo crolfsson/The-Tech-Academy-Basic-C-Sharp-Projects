@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\obj\Debug\ArrayList Drill.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\obj\Debug\ArrayList Drill.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\bin\Debug\ArrayList Drill.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\bin\Debug\ArrayList Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\bin\Debug\ArrayList Drill.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\obj\Debug\ArrayList Drill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayList Drill\ArrayList Drill\obj\Debug\ArrayList Drill.pdb
