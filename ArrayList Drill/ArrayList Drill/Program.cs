@@ -5,6 +5,7 @@ namespace ArrayList_Drill
 {
     class Program
     {
+        private static int inputValue1;
 
         static void Main()
         {
@@ -14,19 +15,15 @@ namespace ArrayList_Drill
 
             //STRING ARRAY
 
-            string[] array1 = { "Episode IV", "Episode V", "Episode VI", "Episode III", "Epidose II", "Episode I" };
+            string[] array1 = { "A", "B", "C", "D", "E" };
 
-            Console.WriteLine("What is your favorite Star Wars movie? (Enter the movie episode with Roman numeral.  i.e Episode I)");
+            Console.WriteLine("Find the index of the entered value.  Enter a letter between A and E.  (Only enter a capital letter.");
             string value = Console.ReadLine();
             int position = Array.IndexOf(array1, value);
 
-            if (position == 0 || position == 1 || position == 2)
+            if (position > 0 || position <= 4)
             {
-                Console.WriteLine("You have great taste in Star Wars movies!  That would be no. {0} on my list.", position +1);
-            }
-            else if (position == 3 || position == 4 || position == 5)
-            {
-                Console.WriteLine("Your taste in Star Wars movies is criminal! That would be no. {0} on my list.  For shame!", position +1);
+                Console.WriteLine("The index of the entered value is {0}:", position);
             }
             else 
             {
@@ -39,27 +36,44 @@ namespace ArrayList_Drill
             int[] array2 = { 4, 1, 3, 2 };
 
             Console.WriteLine("Choose a number between 1 and 4 to find the index of the array:");
-            //string input = Console.ReadLine();
-            int inputNum = Convert.ToInt32(Console.ReadLine());
-            int numPosition = Array.IndexOf(array2, inputNum);
+            string input = Console.ReadLine();
+            Int32.TryParse(input, out inputValue1);
+            int numPosition = Array.IndexOf(array2, inputValue1);
 
-
-            if (numPosition == 0 || numPosition == 1 || numPosition == 2 || numPosition == 3)
+            if (numPosition == 0 || numPosition == 1 || numPosition == 2 || numPosition == 3)//finds index
             {
                 Console.WriteLine("You chose index {0}.", numPosition);
             }
-            else if (numPosition != 0 || numPosition != 1 || numPosition != 2 || numPosition != 3)
+            else if (!Int32.TryParse(input, out inputValue1))//anything other than an integer
             {
-                Console.WriteLine("There is no index for this value.");
+                Console.WriteLine("C'mon, man!  Enter a valid value.");
             }
             else
             {
-                Console.WriteLine("Dude, that is not a valid value.");
+                Console.WriteLine("Dude, that number ain't even an index.");
             }
             Console.ReadLine();
 
+
             //LIST OF STRINGS
- 
+            List<string> myList = new List<string>() { "A", "B", "C", "D" };
+
+            Console.WriteLine("Choose a letter A, B, C, or D to find the index of the list:");
+            string listValue = Console.ReadLine();
+            int index = myList.IndexOf(listValue);
+
+            if (index > 0 || index <= 3)
+            {
+                Console.WriteLine("You chose index {0}.", index);
+            }
+            else
+            {
+                Console.WriteLine("That number ain't even an index.");
+            }
+
+            Console.ReadLine();
+
+
         }
     }
 }
