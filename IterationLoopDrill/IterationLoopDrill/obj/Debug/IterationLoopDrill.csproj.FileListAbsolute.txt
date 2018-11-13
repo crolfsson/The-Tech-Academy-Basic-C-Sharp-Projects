@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\bin\Debug\IterationLoopDrill.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\bin\Debug\IterationLoopDrill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\bin\Debug\IterationLoopDrill.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\obj\Debug\IterationLoopDrill.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\obj\Debug\IterationLoopDrill.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\obj\Debug\IterationLoopDrill.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\IterationLoopDrill\IterationLoopDrill\obj\Debug\IterationLoopDrill.pdb
