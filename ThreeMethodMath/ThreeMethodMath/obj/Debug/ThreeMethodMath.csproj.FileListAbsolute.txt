@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\bin\Debug\ThreeMethodMath.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\bin\Debug\ThreeMethodMath.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\bin\Debug\ThreeMethodMath.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\obj\Debug\ThreeMethodMath.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\obj\Debug\ThreeMethodMath.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\obj\Debug\ThreeMethodMath.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ThreeMethodMath\ThreeMethodMath\obj\Debug\ThreeMethodMath.pdb
