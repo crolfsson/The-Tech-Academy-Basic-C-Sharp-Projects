@@ -9,23 +9,23 @@ namespace ThreeMethodMath
     public class Calc
     {
 
-        public int basic(int num1, int num2)
+        public int basic(int num1)
         {
-            int result = num1 + num2;
-            return result;
+            int resultOne = num1 - 3;
+            return resultOne;
         }
 
-        public double basic(double number)
+        public int basic(double number)
         {
             double result = number * 4.2;
             int resultTwo = Convert.ToInt32(result);
             return resultTwo;
         }
 
-        public string basic(string a)
+        public int basic(string a)
         {
             int numA = Convert.ToInt32(a);
-            int resultThree = numA - 5;
+            int resultThree = numA + 1;
             return resultThree;
         }
     }
