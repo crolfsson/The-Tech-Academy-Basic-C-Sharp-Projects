@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\bin\Debug\OptionalMethod.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\bin\Debug\OptionalMethod.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\bin\Debug\OptionalMethod.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.pdb
