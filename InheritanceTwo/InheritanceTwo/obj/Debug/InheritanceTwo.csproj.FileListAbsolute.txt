@@ -1,0 +1,6 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceTwo\InheritanceTwo\bin\Debug\InheritanceTwo.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceTwo\InheritanceTwo\bin\Debug\InheritanceTwo.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceTwo\InheritanceTwo\bin\Debug\InheritanceTwo.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceTwo\InheritanceTwo\obj\Debug\InheritanceTwo.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceTwo\InheritanceTwo\obj\Debug\InheritanceTwo.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceTwo\InheritanceTwo\obj\Debug\InheritanceTwo.pdb
