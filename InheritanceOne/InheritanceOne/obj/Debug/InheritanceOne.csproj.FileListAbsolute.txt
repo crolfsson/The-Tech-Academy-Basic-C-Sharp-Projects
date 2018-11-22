@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\bin\Debug\InheritanceOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\bin\Debug\InheritanceOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\bin\Debug\InheritanceOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\obj\Debug\InheritanceOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\obj\Debug\InheritanceOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\obj\Debug\InheritanceOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceOne\InheritanceOne\obj\Debug\InheritanceOne.pdb
