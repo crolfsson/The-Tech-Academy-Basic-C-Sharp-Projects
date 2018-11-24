@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\bin\Debug\InterfaceOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\bin\Debug\InterfaceOne.exe
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\bin\Debug\InterfaceOne.pdb
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\obj\Debug\InterfaceOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\obj\Debug\InterfaceOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\obj\Debug\InterfaceOne.exe
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\InterfaceOne\InterfaceOne\obj\Debug\InterfaceOne.pdb
