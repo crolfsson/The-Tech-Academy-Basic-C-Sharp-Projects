@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\bin\Debug\OverloadOperatorOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\bin\Debug\OverloadOperatorOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\bin\Debug\OverloadOperatorOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\obj\Debug\OverloadOperatorOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\obj\Debug\OverloadOperatorOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\obj\Debug\OverloadOperatorOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorOne\OverloadOperatorOne\obj\Debug\OverloadOperatorOne.pdb
