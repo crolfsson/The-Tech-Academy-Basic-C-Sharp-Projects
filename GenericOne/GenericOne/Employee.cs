@@ -11,16 +11,6 @@ namespace GenericOne
         //GENERIC EXAMPLE
         public List<T> Things { get; set; }
 
-        public void AddThings(T item)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void ForEach(Action writeLine)
-        {
-            throw new NotImplementedException();
-        }
-
 
         //ID PROPERTY AND BOOLEAN LOGIC FOR EQUAL IDS - NOT APPLICABLE FOR THIS DRILL
         //int employeeId;

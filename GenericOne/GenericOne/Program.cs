@@ -14,18 +14,22 @@ namespace GenericOne
             Console.WriteLine("\n");
 
             //GENERIC EXAMPLE
-            Employee<string> stringEmployee = new Employee<string>();
-            stringEmployee.AddThings("Business Analyst");
-            stringEmployee.AddThings("Software Developer");
-            stringEmployee.AddThings("Technical Lead");
+            Employee<string> Title = new Employee<string>();
+            List<string> stringList = new List<string>();
+            stringList.Add("Business Analyst");
+            stringList.Add("Software Developer");
+            stringList.Add("Technical Lead");
+            Title.Things = stringList;
 
-            Employee<int> intEmployee = new Employee<int>();
-            intEmployee.AddThings(1);
-            intEmployee.AddThings(2);
-            intEmployee.AddThings(3);
+            Employee<int> Salary = new Employee<int>();
+            List<int> intList = new List<int>();
+            intList.Add(55000);
+            intList.Add(75000);
+            intList.Add(90000);
+            Salary.Things = intList;
 
-            stringEmployee.ForEach(Console.WriteLine);
-            intEmployee.ForEach(Console.WriteLine);
+            stringList.ForEach(Console.WriteLine);
+            intList.ForEach(Console.WriteLine);
 
             Console.ReadLine();
 
