@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\obj\Debug\EnumOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\obj\Debug\EnumOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\bin\Debug\EnumOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\bin\Debug\EnumOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\bin\Debug\EnumOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\obj\Debug\EnumOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumOne\EnumOne\obj\Debug\EnumOne.pdb
