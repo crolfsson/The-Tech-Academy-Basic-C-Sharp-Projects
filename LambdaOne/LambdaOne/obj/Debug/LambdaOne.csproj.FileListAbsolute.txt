@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\bin\Debug\LambdaOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\bin\Debug\LambdaOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\bin\Debug\LambdaOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\obj\Debug\LambdaOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\obj\Debug\LambdaOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\obj\Debug\LambdaOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaOne\LambdaOne\obj\Debug\LambdaOne.pdb
