@@ -25,15 +25,12 @@ namespace LambdaOne
                 new Employee("Charles", "Darwin", 9 ),
                 new Employee("Thomas", "Edison", 10 ),
             };
-            Console.WriteLine(EmployeeList.ToString());
+           
+            foreach (Employee employee in EmployeeList)
+            {
+                Console.WriteLine(EmployeeList.ToString());
+            }
             Console.ReadLine();
-            
-            
-            //foreach (var employee in Employees)
-            //{
-            //    Console.WriteLine(employee);
-            //}
-            //Console.ReadLine();
         }
 
         
