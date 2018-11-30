@@ -14,16 +14,16 @@ namespace LambdaOne
 
             List<Employee> EmployeeList = new List<Employee>()
             {
-                new Employee() { FirstName = "Joe", LastName = "Schmo", ID = 1 },
-                new Employee() { FirstName = "Nikola", LastName = "Tesla", ID = 2 },
-                new Employee() { FirstName = "Albert", LastName = "Einstein", ID = 3 },
-                new Employee() { FirstName = "Isaac", LastName = "Newton", ID = 4 },
-                new Employee() { FirstName = "Marie", LastName = "Curie", ID = 5 },
-                new Employee() { FirstName = "Joe", LastName = "Gottago", ID = 6 },
-                new Employee() { FirstName = "Galileo", LastName = "Galilei", ID = 7 },
-                new Employee() { FirstName = "Stephen", LastName = "Hawking", ID = 8 },
-                new Employee() { FirstName = "Charles", LastName = "Darwin", ID = 9 },
-                new Employee() { FirstName = "Thomas", LastName = "Edison", ID = 10 },
+                new Employee( "Joe", "Schmo", 1 ),
+                new Employee( "Nikola", "Tesla", 2 ),
+                new Employee( "Albert", "Einstein", 3 ),
+                new Employee( "Isaac", "Newton", 4 ),
+                new Employee( "Marie", "Curie", 5 ),
+                new Employee( "Joe", "Gottago", 6 ),
+                new Employee( "Galileo", "Galilei", 7 ),
+                new Employee("Stephen", "Hawking", 8 ),
+                new Employee("Charles", "Darwin", 9 ),
+                new Employee("Thomas", "Edison", 10 ),
             };
             Console.WriteLine(EmployeeList.ToString());
             Console.ReadLine();
