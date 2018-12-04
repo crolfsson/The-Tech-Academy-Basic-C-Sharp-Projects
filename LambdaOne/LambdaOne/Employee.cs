@@ -12,12 +12,12 @@ namespace LambdaOne
         public string LastName { get; set; }
         public int ID { get; set; }
 
-        public Employee(string _firstName, string _lastName, int _iD)
-        {
-            this.FirstName = _firstName;
-            this.LastName = _lastName;
-            this.ID = _iD;
-        }
+        //public EmpInfo(string _firstName, string _lastName, int _iD)
+        //{
+        //    this.FirstName = _firstName;
+        //    this.LastName = _lastName;
+        //    this.ID = _iD;
+        //}
 
         public override string ToString()
         {
