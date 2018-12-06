@@ -24,15 +24,37 @@ namespace LambdaOne
             EmployeeList.Add(new Employee() { FirstName = "Charles", LastName = "Darwin", ID = 9 });
             EmployeeList.Add(new Employee() { FirstName = "Thomas", LastName = "Edison", ID = 10 });
 
+            Console.WriteLine("Press enter to display the employees named \"Joe\".");
+            Console.ReadLine();
 
-            List<Employee> EmployeeList2 = EmployeeList.Where(x => x.ID > 5).ToList();
+            foreach (Employee employee in EmployeeList)
+            {
+                if (employee.FirstName == "Joe")
+                {
+                    Console.WriteLine(employee.FirstName + " " + employee.LastName);
+                }
+            }
+            Console.ReadLine();
+
+            Console.WriteLine("Press enter to display the employees named \"Joe\".");
+            Console.ReadLine();
+
+            List<Employee> EmployeeList2 = EmployeeList.Where(x => x.FirstName == "Joe").ToList();
             foreach (Employee employee in EmployeeList2)
             {
-                Console.WriteLine(EmployeeList2.ToString());
+                Console.WriteLine(employee.FirstName + " " + employee.LastName);
+            }
+            Console.ReadLine();
+
+            Console.WriteLine("Press enter to display the employees that have an employee ID greater than 5.");
+            Console.ReadLine();
+
+            List<Employee> EmployeeList3 = EmployeeList.Where(x => x.ID > 5).ToList();
+            foreach (Employee employee in EmployeeList3)
+            {
+                Console.WriteLine(employee.FirstName + " " + employee.LastName + "'s employee ID is " + employee.ID);
             }
             Console.ReadLine();
         }
-
-        
     }
 }
