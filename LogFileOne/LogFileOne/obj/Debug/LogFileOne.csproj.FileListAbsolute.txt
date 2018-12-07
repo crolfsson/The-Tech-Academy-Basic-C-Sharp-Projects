@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\bin\Debug\LogFileOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\bin\Debug\LogFileOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\bin\Debug\LogFileOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\obj\Debug\LogFileOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\obj\Debug\LogFileOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\obj\Debug\LogFileOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileOne\LogFileOne\obj\Debug\LogFileOne.pdb
