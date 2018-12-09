@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\bin\Debug\ExceptionOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\bin\Debug\ExceptionOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\bin\Debug\ExceptionOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\obj\Debug\ExceptionOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\obj\Debug\ExceptionOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\obj\Debug\ExceptionOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionOne\ExceptionOne\obj\Debug\ExceptionOne.pdb
