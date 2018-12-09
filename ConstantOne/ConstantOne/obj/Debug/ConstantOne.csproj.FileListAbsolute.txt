@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\bin\Debug\ConstantOne.exe.config
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\bin\Debug\ConstantOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\bin\Debug\ConstantOne.pdb
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\obj\Debug\ConstantOne.csprojAssemblyReference.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\obj\Debug\ConstantOne.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\obj\Debug\ConstantOne.exe
+C:\Users\rolfsson\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantOne\ConstantOne\obj\Debug\ConstantOne.pdb
